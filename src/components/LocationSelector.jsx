@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 import axios from "axios";
 import "./Modal.css"; // We'll add a small CSS file
 
-const API_BASE = "http://127.0.0.1:8000/api"; // Change to your API URL
+const API_BASE = process.env.REACT_APP_API_BASE || "http://127.0.0.1:8000/api"; // Change to your API URL
 
 export default function LocationSelectorModal() {
   const [regions, setRegions] = useState([]);
