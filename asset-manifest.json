@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/psgc_frontend/static/css/main.ab5dd3e2.css",
+    "main.js": "/psgc_frontend/static/js/main.94d8ca95.js",
+    "static/js/453.7d3fa033.chunk.js": "/psgc_frontend/static/js/453.7d3fa033.chunk.js",
+    "index.html": "/psgc_frontend/index.html",
+    "main.ab5dd3e2.css.map": "/psgc_frontend/static/css/main.ab5dd3e2.css.map",
+    "main.94d8ca95.js.map": "/psgc_frontend/static/js/main.94d8ca95.js.map",
+    "453.7d3fa033.chunk.js.map": "/psgc_frontend/static/js/453.7d3fa033.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab5dd3e2.css",
+    "static/js/main.94d8ca95.js"
+  ]
+}
